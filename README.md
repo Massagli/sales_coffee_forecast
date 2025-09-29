@@ -10,3 +10,8 @@ Etapas para o modelo ARIMA
 * Plotar os dados treinados
 * Fazer previsões futuras
 * Plotar Previsões
+
+bibliotecas necessárias
+- pip install pandas
+- pip install matplotlib
+- pip install statsmodels
